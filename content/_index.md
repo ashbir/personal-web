@@ -1,4 +1,4 @@
-# Ashbir Site
+# Hi, I am Ashbir
 
-Hi this is my personal site.
+This is my personal site.
 
