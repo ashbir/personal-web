@@ -6,7 +6,7 @@
 title = "Ashbir Site"
 
 # baseURL
-baseURL = "ashbir.com"
+baseURL = "/"
 
 # Language code, defaults to en-US if not set
 languageCode = "en-US"
