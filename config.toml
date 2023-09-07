@@ -3,10 +3,10 @@
 # copy this to yoursite-dir/config.toml and modify as needed
 
 # Title of your site
-title = "Ashbir Site"
+title = "Ashbir Aviat Fadila"
 
 # baseURL
-baseURL = "/"
+baseURL = "https://ashbir.com"
 
 # Language code, defaults to en-US if not set
 languageCode = "en-US"
