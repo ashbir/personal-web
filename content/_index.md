@@ -1,4 +1,4 @@
-# Hi, I am Ashbir
-
-This is my personal site.
-
+---
+title: "Home"
+author : "Hugo Authors"
+---
