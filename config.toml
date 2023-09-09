@@ -98,8 +98,3 @@ url = "https://www.linkedin.com/in/ashbiraf"
 [[params.socialIcons]]
 name = "email"
 url = "mailto:fadila@ashbir.com"
-
-[[params.socialIcons]]
-name = "Rss"
-url = "index.xml"
-
