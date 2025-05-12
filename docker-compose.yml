@@ -1,0 +1,14 @@
+version: '3.8'  # Podman Compose is compatible with Docker Compose v3 formats
+services:
+  hugo:
+    image: hugomods/hugo:exts
+    command: server -D
+    volumes:
+      - "./:/src:Z"
+      - "~/hugo_cache:/tmp/hugo_cache:Z"
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
