@@ -57,7 +57,7 @@ disqusShortname = ''
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "My personal website"
+  description = "IC design enthusiast in Tokyo. Digital design by trade, analog and RF for fun, open source at heart."
   mainSections = ['posts']
   toc = false # set to false to disable table of contents 'globally'
   goToTop = true # set to false to disable 'go to top' button
@@ -70,9 +70,9 @@ disqusShortname = ''
 [params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Hi, I am Ashbir"
+  intro = "Hi, I'm Ashbir"
   name = "Ashbir Aviat Fadila"
-  description = "This is my personal site"
+  description = "Chip enthusiast | Digital | Mixed-signal | Open source"
 
 # Allow to override webmanifest options
 [params.webmanifest]
@@ -90,6 +90,10 @@ disqusShortname = ''
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/ashbir"
+
+[[params.socialIcons]]
+name = "forgejo"
+url = "https://git.ashbir.com/ashbir"
 
 [[params.socialIcons]]
 name = "linkedin"
