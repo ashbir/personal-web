@@ -2,7 +2,7 @@ title = "Ashbir Aviat Fadila"
 baseURL = 'https://www.ashbir.com/'
 
 # This is what goes in <html lang="">
-languageCode = 'en-us'
+locale = 'en-US'
 
 theme = "hugo-blog-awesome"
 
